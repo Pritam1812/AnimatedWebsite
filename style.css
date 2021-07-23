@@ -33,6 +33,11 @@ button{
     outline: none;
     cursor: pointer;
 }
+button:hover{
+    background-color: #fff;
+    color:teal;
+    transition: 0.5s ease-in-out;
+}
 .content{
     color: white;
     position: absolute;

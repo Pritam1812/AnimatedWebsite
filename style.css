@@ -183,4 +183,8 @@ h3{
         width: 20px;
         margin: 0;
     }
+    .social-links img, .useful-links img{
+        width: 35px;
+        margin: 30px 2px;
+    }
 }
